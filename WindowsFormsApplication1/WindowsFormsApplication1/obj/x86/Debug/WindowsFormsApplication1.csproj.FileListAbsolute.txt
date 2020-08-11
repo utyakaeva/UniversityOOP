@@ -1,0 +1,34 @@
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form1.resources
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form2.resources
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\4 курс\C#\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form3.resources
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form1.resources
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form2.resources
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form3.resources
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Иванин\курсовая_Лена\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form4.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form1.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form2.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form3.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Variant6.Form4.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
